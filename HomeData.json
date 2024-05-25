@@ -765,7 +765,7 @@
     "id": "22r12a34-n56g78a-90l12",
     "title": "Rangasthalam",
     "video_url": "https://www.youtube.com/embed/sueMmTm-M4Y?rel=0",
-    "movie_img": "https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463485/Rangasthalam_vzpgw6.jpg?_s=public-apps",
+    "thumbnail_url": "https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463485/Rangasthalam_vzpgw6.jpg?_s=public-apps",
     "view_count": "8.3M",
     "published_at": "Mar 30, 2018",
     "channel": {
@@ -1373,7 +1373,7 @@
     "id": "18a12r34-j56u78n90r12e",
     "title": "Arjun Reddy",
     "video_url": "https://www.youtube.com/embed/aozErj9NqeE?rel=0",
-    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463472/Arjun_Reddy_wyouzz.jpg?_s=public-apps",
+    "thumbnail_url":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463472/Arjun_Reddy_wyouzz.jpg?_s=public-apps",
     "view_count": "10.5M",
     "published_at": "Aug 25, 2017",
     "channel": {
